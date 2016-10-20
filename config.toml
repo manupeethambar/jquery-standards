@@ -1,13 +1,13 @@
 baseurl = "https://ecmascript2015.herokuapp.com/"
 languageCode = "en-us"
-title = "ES6 Features"
+title = "Jquery Standards"
 theme = "blackburn"
 canonifyurls = true
 
 [params]
   # Shown in the home page
   subtitle = "Jquery"
-  brand = "Jquery Features"
+  brand = "JQuery Standards"
   custom_css = ["css/custom_style.css"]
 
 [menu]
